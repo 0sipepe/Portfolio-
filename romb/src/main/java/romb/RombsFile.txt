@@ -1,0 +1,46 @@
+      "class": "Figure.Romb",
+      "name": "romb1",
+
+        "points": [
+          {"x": 5, "y": 0},
+          {"x": 10, "y": 5},
+          {"x": 5, "y": 10},
+          {"x": 0, "y": 5}
+        ],
+
+        "fillColor": "#FF6B6B",
+        "lineColor": "#4ECDC4",
+        "transparrency": 0.8
+  
+
+        "class": "Figure.Romb",
+      "name": "romb2",
+        "points": [
+          {"x": 0, "y": 0},
+          {"x": 10, "y": 0},
+          {"x": 5, "y": 8.66},
+           {"x": 0, "y": 5}
+        ]
+      ,
+        "fillColor": "#45B7D1",
+        "strokeColor": "#96CEB4",
+        "transparrency": 0.6
+       
+      
+    },
+    {
+      class: "Figure.Romb",
+      "name": "romb3",
+      
+        "points": [
+          {"x": 0, "y": 0},
+          {"x": 15, "y": 0},
+          {"x": 15, "y": 8},
+          {"x": 0, "y": 8}
+        ]
+      
+        fillColor: "#F7DC6F",
+        strokeColor: "#DC7633",
+        transparrency: 0.9
+       
+
