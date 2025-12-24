@@ -1,4 +1,4 @@
-package romb;
+
 
 public class IncorrectInputException extends Exception {
 

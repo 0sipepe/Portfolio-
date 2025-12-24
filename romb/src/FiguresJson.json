@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Figure.Romb",
+    "name": "Ромб 1",
+    "fillColor": "#1D1535",
+    "lineColor": "#1D1535",
+    "transparrency": 255,
+    "center": {
+      "x": 100,
+      "y": 150
+    },
+    "diagonals": {
+      "d1": 120.0,
+      "d2": 80.0
+    }
+  },
+  {
+    "fullName": "Figure.Romb",
+    "name": "Ромб 2",
+    "fillColor":"#3DE234",
+    "lineColor": "#3DE234",
+    "transparrency": 200,
+    "center": {
+      "x": 250,
+      "y": 200
+    },
+    "diagonals": {
+      "d1": 90.5,
+      "d2": 150.2
+    }
+  },
+  {
+    "fullName": "Figure.Romb",
+    "name": "Прозрачный ромб",
+    "fillColor":"#F632B4",
+    "lineColor": "#F632B4",
+    "transparrency": 128,
+    "center": {
+      "x": 400,
+      "y": 300
+    },
+    "diagonals": {
+      "d1": 200.0,
+      "d2": 100.0
+    }
+  }
+]
